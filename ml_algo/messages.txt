@@ -1,0 +1,980 @@
+Constraint match at parameter BrLen100, badValue = -0.000513 [ 1e-06; 10000] 
+Constraint match at parameter BrLen251, badValue = -0.010801 [ 1e-06; 10000] 
+Constraint match at parameter BrLen100, badValue = -0.002754 [ 1e-06; 10000] 
+Constraint match at parameter BrLen100, badValue = -0.000933 [ 1e-06; 10000] 
+Constraint match at parameter GTR.a, badValue = 0.000000 ]0; +inf[
+Initial bracketing:
+A: x = 0, f = 150931
+B: x = 3.06138, f = 135424
+C: x = 8.01479, f = 139982
+Constraint match at parameter GTR.b, badValue = 0.000000 ]0; +inf[
+Initial bracketing:
+A: x = 0, f = 137465
+B: x = 1.08426, f = 134978
+C: x = 2.83863, f = 137976
+Constraint match at parameter GTR.c, badValue = 0.000000 ]0; +inf[
+Initial bracketing:
+A: x = 0, f = 137741
+B: x = 0.918252, f = 135063
+C: x = 2.40401, f = 138586
+Constraint match at parameter GTR.d, badValue = 0.000000 ]0; +inf[
+Initial bracketing:
+A: x = 0, f = 136652
+B: x = 0.776751, f = 134865
+C: x = 2.03356, f = 137369
+Constraint match at parameter GTR.e, badValue = 0.000000 ]0; +inf[
+Initial bracketing:
+A: x = 0, f = 138525
+B: x = 0.927152, f = 135097
+C: x = 2.42732, f = 138830
+Constraint match at parameter GTR.theta, badValue = 0.000000 ]1e-06; 0.999999[
+Constraint match at parameter GTR.theta, badValue = 1.035770 ]1e-06; 0.999999[
+Constraint match at parameter GTR.theta, badValue = 2.465165 ]1e-06; 0.999999[
+Initial bracketing:
+A: x = 0, f = inf
+B: x = 0.941609, f = 156811
+C: x = 2.46516, f = inf
+Constraint match at parameter GTR.theta, badValue = 2.986422 ]1e-06; 0.999999[
+Constraint match at parameter GTR.theta, badValue = 2.986422 ]1e-06; 0.999999[
+Constraint match at parameter GTR.theta, badValue = 2.986422 ]1e-06; 0.999999[
+Constraint match at parameter GTR.theta, badValue = 2.986422 ]1e-06; 0.999999[
+Constraint match at parameter GTR.theta1, badValue = 0.000000 ]1e-06; 0.999999[
+Constraint match at parameter GTR.theta1, badValue = 2.604759 ]1e-06; 0.999999[
+Initial bracketing:
+A: x = 0, f = 185700
+B: x = 0.994929, f = 159206
+C: x = 2.60476, f = 186014
+Constraint match at parameter GTR.theta1, badValue = 2.868666 ]1e-06; 0.999999[
+Constraint match at parameter GTR.theta1, badValue = 2.868666 ]1e-06; 0.999999[
+Constraint match at parameter GTR.theta1, badValue = 2.868666 ]1e-06; 0.999999[
+Constraint match at parameter GTR.theta1, badValue = 2.868666 ]1e-06; 0.999999[
+Constraint match at parameter GTR.theta2, badValue = 0.000000 ]1e-06; 0.999999[
+Constraint match at parameter GTR.theta2, badValue = 1.118012 ]1e-06; 0.999999[
+Constraint match at parameter GTR.theta2, badValue = 2.926994 ]1e-06; 0.999999[
+Initial bracketing:
+A: x = 0, f = 178128
+B: x = 1.11801, f = 175946
+C: x = 2.92699, f = 175946
+Constraint match at parameter GTR.theta2, badValue = 3.223549 ]1e-06; 0.999999[
+Constraint match at parameter GTR.theta2, badValue = 3.223549 ]1e-06; 0.999999[
+Constraint match at parameter GTR.theta2, badValue = 3.223549 ]1e-06; 0.999999[
+Constraint match at parameter GTR.theta2, badValue = 3.223549 ]1e-06; 0.999999[
+Constraint match at parameter Gamma.alpha, badValue = 0.000000 [ 0.05; +inf[
+Initial bracketing:
+A: x = 0, f = 154566
+B: x = 1.06536, f = 139474
+C: x = 2.78914, f = 199632
+Constraint match at parameter Gamma.beta, badValue = 0.000000 [ 0.05; +inf[
+Initial bracketing:
+A: x = 0, f = 145563
+B: x = 1.03524, f = 135798
+C: x = 2.71028, f = 145254
+Initial bracketing:
+A: x = 1.50237, f = 134486
+B: x = 1.55901, f = 134486
+C: x = 1.65067, f = 134495
+Initial bracketing:
+A: x = 0.570452, f = 134488
+B: x = 0.513806, f = 134487
+C: x = 0.422152, f = 134530
+Initial bracketing:
+A: x = 0.487449, f = 134490
+B: x = 0.430803, f = 134487
+C: x = 0.339148, f = 134555
+Initial bracketing:
+A: x = 0.360053, f = 134489
+B: x = 0.416699, f = 134488
+C: x = 0.508353, f = 134533
+Initial bracketing:
+A: x = 0.435253, f = 134490
+B: x = 0.491899, f = 134488
+C: x = 0.583554, f = 134544
+Initial bracketing:
+A: x = 0.546208, f = 134536
+B: x = 0.489562, f = 134535
+C: x = 0.397907, f = 135416
+Initial bracketing:
+A: x = 0.469142, f = 134512
+B: x = 0.525788, f = 134511
+C: x = 0.617442, f = 134974
+Initial bracketing:
+A: x = 0.530683, f = 134510
+B: x = 0.587329, f = 134507
+C: x = 0.678984, f = 134931
+Initial bracketing:
+A: x = 0.504355, f = 134511
+B: x = 0.561001, f = 134496
+C: x = 0.652656, f = 134785
+Initial bracketing:
+A: x = 0.545941, f = 134494
+B: x = 0.489295, f = 134489
+C: x = 0.39764, f = 134625
+!!! Function at new point is greater than at current point: 134485>134485. Applying Felsenstein-Churchill correction: 0
+Constraint match at parameter BrLen100, badValue = -0.000037 [ 1e-06; 10000] 
+Constraint match at parameter BrLen100, badValue = -0.000040 [ 1e-06; 10000] 
+Constraint match at parameter BrLen100, badValue = -0.000104 [ 1e-06; 10000] 
+Constraint match at parameter BrLen100, badValue = -0.000083 [ 1e-06; 10000] 
+Constraint match at parameter BrLen100, badValue = -0.000146 [ 1e-06; 10000] 
+Constraint match at parameter BrLen100, badValue = -0.000108 [ 1e-06; 10000] 
+!!! Function at new point is greater than at current point: 134484>134484. Applying Felsenstein-Churchill correction: 0
+Constraint match at parameter BrLen100, badValue = -0.000143 [ 1e-06; 10000] 
+Constraint match at parameter BrLen100, badValue = -0.000149 [ 1e-06; 10000] 
+Constraint match at parameter BrLen100, badValue = -0.000163 [ 1e-06; 10000] 
+Constraint match at parameter BrLen100, badValue = -0.000164 [ 1e-06; 10000] 
+Constraint match at parameter BrLen100, badValue = -0.000177 [ 1e-06; 10000] 
+Constraint match at parameter BrLen100, badValue = -0.000174 [ 1e-06; 10000] 
+Constraint match at parameter BrLen100, badValue = -0.000187 [ 1e-06; 10000] 
+Constraint match at parameter BrLen100, badValue = -0.000181 [ 1e-06; 10000] 
+Initial bracketing:
+A: x = 1.5314, f = 134484
+B: x = 1.53297, f = 134484
+C: x = 1.53228, f = 134484
+Initial bracketing:
+A: x = 0.541416, f = 134484
+B: x = 0.540873, f = 134484
+C: x = 0.540535, f = 134484
+Initial bracketing:
+A: x = 0.458413, f = 134484
+B: x = 0.454187, f = 134484
+C: x = 0.457532, f = 134484
+Initial bracketing:
+A: x = 0.388544, f = 134484
+B: x = 0.388207, f = 134484
+C: x = 0.387663, f = 134484
+Initial bracketing:
+A: x = 0.463744, f = 134484
+B: x = 0.464081, f = 134484
+C: x = 0.464289, f = 134484
+Initial bracketing:
+A: x = 0.518053, f = 134484
+B: x = 0.517717, f = 134484
+C: x = 0.517172, f = 134484
+Initial bracketing:
+A: x = 0.497633, f = 134484
+B: x = 0.497296, f = 134484
+C: x = 0.496752, f = 134484
+Initial bracketing:
+A: x = 0.559719, f = 134484
+B: x = 0.560412, f = 134484
+C: x = 0.5606, f = 134484
+Initial bracketing:
+A: x = 0.533391, f = 134484
+B: x = 0.535994, f = 134484
+C: x = 0.534272, f = 134484
+Initial bracketing:
+A: x = 0.518331, f = 134484
+B: x = 0.522106, f = 134484
+C: x = 0.519212, f = 134484
+Constraint match at parameter BrLen100, badValue = -0.000153 [ 1e-06; 10000] 
+Constraint match at parameter BrLen100, badValue = -0.000134 [ 1e-06; 10000] 
+Constraint match at parameter BrLen100, badValue = -0.000147 [ 1e-06; 10000] 
+!!! Function at new point is greater than at current point: 134484>134484. Applying Felsenstein-Churchill correction: 0
+Constraint match at parameter BrLen100, badValue = -0.000136 [ 1e-06; 10000] 
+Constraint match at parameter BrLen100, badValue = -0.000135 [ 1e-06; 10000] 
+Constraint match at parameter BrLen100, badValue = -0.000131 [ 1e-06; 10000] 
+Constraint match at parameter BrLen100, badValue = -0.000131 [ 1e-06; 10000] 
+Constraint match at parameter BrLen100, badValue = -0.000128 [ 1e-06; 10000] 
+Constraint match at parameter BrLen100, badValue = -0.000129 [ 1e-06; 10000] 
+Constraint match at parameter BrLen100, badValue = -0.000125 [ 1e-06; 10000] 
+Constraint match at parameter BrLen100, badValue = -0.000127 [ 1e-06; 10000] 
+!!! Function at new point is greater than at current point: 134484>134484. Applying Felsenstein-Churchill correction: 0
+Constraint match at parameter BrLen100, badValue = -0.000125 [ 1e-06; 10000] 
+Constraint match at parameter BrLen100, badValue = -0.000125 [ 1e-06; 10000] 
+Constraint match at parameter BrLen100, badValue = -0.000124 [ 1e-06; 10000] 
+Constraint match at parameter BrLen100, badValue = -0.000124 [ 1e-06; 10000] 
+Constraint match at parameter BrLen100, badValue = -0.000123 [ 1e-06; 10000] 
+Constraint match at parameter BrLen100, badValue = -0.000123 [ 1e-06; 10000] 
+Constraint match at parameter BrLen100, badValue = -0.000123 [ 1e-06; 10000] 
+Initial bracketing:
+A: x = 1.53265, f = 134484
+B: x = 1.5305, f = 134484
+C: x = 1.53213, f = 134484
+Initial bracketing:
+A: x = 0.540549, f = 134484
+B: x = 0.540388, f = 134484
+C: x = 0.540031, f = 134484
+Initial bracketing:
+A: x = 0.453953, f = 134484
+B: x = 0.452239, f = 134484
+C: x = 0.453434, f = 134484
+Initial bracketing:
+A: x = 0.3887, f = 134484
+B: x = 0.389736, f = 134484
+C: x = 0.389219, f = 134484
+Initial bracketing:
+A: x = 0.464405, f = 134484
+B: x = 0.464527, f = 134484
+C: x = 0.464924, f = 134484
+Initial bracketing:
+A: x = 0.517881, f = 134484
+B: x = 0.517761, f = 134484
+C: x = 0.517876, f = 134484
+Initial bracketing:
+A: x = 0.496764, f = 134484
+B: x = 0.496434, f = 134484
+C: x = 0.496245, f = 134484
+Initial bracketing:
+A: x = 0.560736, f = 134484
+B: x = 0.560803, f = 134484
+C: x = 0.561255, f = 134484
+Initial bracketing:
+A: x = 0.536228, f = 134484
+B: x = 0.537805, f = 134484
+C: x = 0.536747, f = 134484
+Initial bracketing:
+A: x = 0.522431, f = 134484
+B: x = 0.525011, f = 134484
+C: x = 0.522949, f = 134484
+Constraint match at parameter BrLen100, badValue = -0.000141 [ 1e-06; 10000] 
+Constraint match at parameter BrLen100, badValue = -0.000130 [ 1e-06; 10000] 
+Constraint match at parameter BrLen100, badValue = -0.000134 [ 1e-06; 10000] 
+Constraint match at parameter BrLen100, badValue = -0.000129 [ 1e-06; 10000] 
+Constraint match at parameter BrLen100, badValue = -0.000131 [ 1e-06; 10000] 
+Constraint match at parameter BrLen100, badValue = -0.000127 [ 1e-06; 10000] 
+Constraint match at parameter BrLen100, badValue = -0.000129 [ 1e-06; 10000] 
+Constraint match at parameter BrLen100, badValue = -0.000126 [ 1e-06; 10000] 
+!!! Function at new point is greater than at current point: 134484>134484. Applying Felsenstein-Churchill correction: 0
+Constraint match at parameter BrLen100, badValue = -0.000126 [ 1e-06; 10000] 
+Constraint match at parameter BrLen100, badValue = -0.000126 [ 1e-06; 10000] 
+Constraint match at parameter BrLen100, badValue = -0.000126 [ 1e-06; 10000] 
+Constraint match at parameter BrLen100, badValue = -0.000125 [ 1e-06; 10000] 
+Constraint match at parameter BrLen100, badValue = -0.000125 [ 1e-06; 10000] 
+Constraint match at parameter BrLen100, badValue = -0.000124 [ 1e-06; 10000] 
+Initial bracketing:
+A: x = 1.53018, f = 134484
+B: x = 1.52833, f = 134484
+C: x = 1.52966, f = 134484
+Initial bracketing:
+A: x = 0.540063, f = 134484
+B: x = 0.53983, f = 134484
+C: x = 0.539545, f = 134484
+Initial bracketing:
+A: x = 0.451923, f = 134484
+B: x = 0.450995, f = 134484
+C: x = 0.451405, f = 134484
+Initial bracketing:
+A: x = 0.39006, f = 134484
+B: x = 0.390606, f = 134484
+C: x = 0.390579, f = 134484
+Initial bracketing:
+A: x = 0.464852, f = 134484
+B: x = 0.464937, f = 134484
+C: x = 0.46537, f = 134484
+Initial bracketing:
+A: x = 0.517756, f = 134484
+B: x = 0.517614, f = 134484
+C: x = 0.517751, f = 134484
+Initial bracketing:
+A: x = 0.496109, f = 134484
+B: x = 0.495995, f = 134484
+C: x = 0.495591, f = 134484
+Initial bracketing:
+A: x = 0.560807, f = 134484
+B: x = 0.561009, f = 134484
+C: x = 0.560813, f = 134484
+Initial bracketing:
+A: x = 0.538115, f = 134484
+B: x = 0.538958, f = 134484
+C: x = 0.538633, f = 134484
+Initial bracketing:
+A: x = 0.525336, f = 134484
+B: x = 0.52685, f = 134484
+C: x = 0.525854, f = 134484
+Constraint match at parameter BrLen100, badValue = -0.000135 [ 1e-06; 10000] 
+Constraint match at parameter BrLen100, badValue = -0.000133 [ 1e-06; 10000] 
+Constraint match at parameter BrLen100, badValue = -0.000133 [ 1e-06; 10000] 
+Constraint match at parameter BrLen100, badValue = -0.000131 [ 1e-06; 10000] 
+Constraint match at parameter BrLen100, badValue = -0.000131 [ 1e-06; 10000] 
+Constraint match at parameter BrLen100, badValue = -0.000130 [ 1e-06; 10000] 
+Constraint match at parameter BrLen100, badValue = -0.000131 [ 1e-06; 10000] 
+!!! Function at new point is greater than at current point: 134484>134484. Applying Felsenstein-Churchill correction: 0
+Constraint match at parameter BrLen100, badValue = -0.000130 [ 1e-06; 10000] 
+Constraint match at parameter BrLen100, badValue = -0.000129 [ 1e-06; 10000] 
+Constraint match at parameter BrLen100, badValue = -0.000129 [ 1e-06; 10000] 
+Constraint match at parameter BrLen100, badValue = -0.000129 [ 1e-06; 10000] 
+Initial bracketing:
+A: x = 1.52801, f = 134484
+B: x = 1.52676, f = 134484
+C: x = 1.52749, f = 134484
+Initial bracketing:
+A: x = 0.539506, f = 134484
+B: x = 0.539329, f = 134484
+C: x = 0.538988, f = 134484
+Initial bracketing:
+A: x = 0.450673, f = 134484
+B: x = 0.450199, f = 134484
+C: x = 0.450155, f = 134484
+Initial bracketing:
+A: x = 0.390931, f = 134484
+B: x = 0.391116, f = 134484
+C: x = 0.391449, f = 134484
+Initial bracketing:
+A: x = 0.465262, f = 134484
+B: x = 0.465292, f = 134484
+C: x = 0.46578, f = 134484
+Initial bracketing:
+A: x = 0.51761, f = 134484
+B: x = 0.517486, f = 134484
+C: x = 0.517605, f = 134484
+Initial bracketing:
+A: x = 0.495991, f = 134484
+B: x = 0.495714, f = 134484
+C: x = 0.495985, f = 134484
+Initial bracketing:
+A: x = 0.561013, f = 134484
+B: x = 0.561117, f = 134484
+C: x = 0.561018, f = 134484
+Initial bracketing:
+A: x = 0.539278, f = 134484
+B: x = 0.539681, f = 134484
+C: x = 0.539797, f = 134484
+Initial bracketing:
+A: x = 0.527175, f = 134484
+B: x = 0.528021, f = 134484
+C: x = 0.527693, f = 134484
+Constraint match at parameter BrLen100, badValue = -0.000133 [ 1e-06; 10000] 
+Constraint match at parameter BrLen100, badValue = -0.000135 [ 1e-06; 10000] 
+Constraint match at parameter BrLen100, badValue = -0.000133 [ 1e-06; 10000] 
+Constraint match at parameter BrLen100, badValue = -0.000134 [ 1e-06; 10000] 
+Constraint match at parameter BrLen100, badValue = -0.000132 [ 1e-06; 10000] 
+Constraint match at parameter BrLen100, badValue = -0.000133 [ 1e-06; 10000] 
+Constraint match at parameter BrLen100, badValue = -0.000132 [ 1e-06; 10000] 
+Constraint match at parameter BrLen100, badValue = -0.000132 [ 1e-06; 10000] 
+Constraint match at parameter BrLen100, badValue = -0.000132 [ 1e-06; 10000] 
+Constraint match at parameter BrLen100, badValue = -0.000131 [ 1e-06; 10000] 
+Initial bracketing:
+A: x = 1.52644, f = 134484
+B: x = 1.52565, f = 134484
+C: x = 1.52592, f = 134484
+Initial bracketing:
+A: x = 0.539005, f = 134484
+B: x = 0.538935, f = 134484
+C: x = 0.538487, f = 134484
+Initial bracketing:
+A: x = 0.449875, f = 134484
+B: x = 0.449696, f = 134484
+C: x = 0.449357, f = 134484
+Initial bracketing:
+A: x = 0.39112, f = 134484
+B: x = 0.391408, f = 134484
+C: x = 0.391126, f = 134484
+Initial bracketing:
+A: x = 0.465296, f = 134484
+B: x = 0.465573, f = 134484
+C: x = 0.465302, f = 134484
+Initial bracketing:
+A: x = 0.517482, f = 134484
+B: x = 0.517384, f = 134484
+C: x = 0.517477, f = 134484
+Initial bracketing:
+A: x = 0.49571, f = 134484
+B: x = 0.495535, f = 134484
+C: x = 0.495704, f = 134484
+Initial bracketing:
+A: x = 0.561121, f = 134484
+B: x = 0.561171, f = 134484
+C: x = 0.561126, f = 134484
+Initial bracketing:
+A: x = 0.540004, f = 134484
+B: x = 0.540141, f = 134484
+C: x = 0.540523, f = 134484
+Initial bracketing:
+A: x = 0.528345, f = 134483
+B: x = 0.528771, f = 134483
+C: x = 0.528864, f = 134483
+Constraint match at parameter BrLen100, badValue = -0.000133 [ 1e-06; 10000] 
+Constraint match at parameter BrLen100, badValue = -0.000136 [ 1e-06; 10000] 
+Constraint match at parameter BrLen100, badValue = -0.000135 [ 1e-06; 10000] 
+Constraint match at parameter BrLen100, badValue = -0.000135 [ 1e-06; 10000] 
+Constraint match at parameter BrLen100, badValue = -0.000134 [ 1e-06; 10000] 
+Initial bracketing:
+A: x = 1.52533, f = 134483
+B: x = 1.5249, f = 134483
+C: x = 1.52481, f = 134483
+Initial bracketing:
+A: x = 0.53893, f = 134483
+B: x = 0.538636, f = 134483
+C: x = 0.538925, f = 134483
+Initial bracketing:
+A: x = 0.449693, f = 134483
+B: x = 0.449384, f = 134483
+C: x = 0.449687, f = 134483
+Initial bracketing:
+A: x = 0.391412, f = 134483
+B: x = 0.391575, f = 134483
+C: x = 0.391418, f = 134483
+Initial bracketing:
+A: x = 0.465575, f = 134483
+B: x = 0.465782, f = 134483
+C: x = 0.46558, f = 134483
+Initial bracketing:
+A: x = 0.51738, f = 134483
+B: x = 0.517305, f = 134483
+C: x = 0.517375, f = 134483
+Initial bracketing:
+A: x = 0.495531, f = 134483
+B: x = 0.495424, f = 134483
+C: x = 0.495526, f = 134483
+Initial bracketing:
+A: x = 0.561176, f = 134483
+B: x = 0.561197, f = 134483
+C: x = 0.561181, f = 134483
+Initial bracketing:
+A: x = 0.540145, f = 134483
+B: x = 0.540431, f = 134483
+C: x = 0.54015, f = 134483
+Initial bracketing:
+A: x = 0.529096, f = 134483
+B: x = 0.529263, f = 134483
+C: x = 0.529615, f = 134483
+Constraint match at parameter BrLen100, badValue = -0.000134 [ 1e-06; 10000] 
+Constraint match at parameter BrLen100, badValue = -0.000137 [ 1e-06; 10000] 
+Constraint match at parameter BrLen100, badValue = -0.000135 [ 1e-06; 10000] 
+!!! Function at new point is greater than at current point: 134483>134483. Applying Felsenstein-Churchill correction: 0
+Constraint match at parameter BrLen100, badValue = -0.000136 [ 1e-06; 10000] 
+Constraint match at parameter BrLen100, badValue = -0.000135 [ 1e-06; 10000] 
+Initial bracketing:
+A: x = 1.52457, f = 134483
+B: x = 1.52439, f = 134483
+C: x = 1.52406, f = 134483
+Initial bracketing:
+A: x = 0.538632, f = 134483
+B: x = 0.538424, f = 134483
+C: x = 0.538627, f = 134483
+Initial bracketing:
+A: x = 0.449379, f = 134483
+B: x = 0.449187, f = 134483
+C: x = 0.449374, f = 134483
+Initial bracketing:
+A: x = 0.391579, f = 134483
+B: x = 0.391669, f = 134483
+C: x = 0.391585, f = 134483
+Initial bracketing:
+A: x = 0.465786, f = 134483
+B: x = 0.465938, f = 134483
+C: x = 0.465791, f = 134483
+Initial bracketing:
+A: x = 0.517301, f = 134483
+B: x = 0.517248, f = 134483
+C: x = 0.517295, f = 134483
+Initial bracketing:
+A: x = 0.495419, f = 134483
+B: x = 0.495353, f = 134483
+C: x = 0.495414, f = 134483
+Initial bracketing:
+A: x = 0.561201, f = 134483
+B: x = 0.56121, f = 134483
+C: x = 0.561206, f = 134483
+Initial bracketing:
+A: x = 0.540435, f = 134483
+B: x = 0.540621, f = 134483
+C: x = 0.54044, f = 134483
+Initial bracketing:
+A: x = 0.529268, f = 134483
+B: x = 0.529586, f = 134483
+C: x = 0.529273, f = 134483
+Constraint match at parameter BrLen100, badValue = -0.000135 [ 1e-06; 10000] 
+Constraint match at parameter BrLen100, badValue = -0.000137 [ 1e-06; 10000] 
+Constraint match at parameter BrLen100, badValue = -0.000136 [ 1e-06; 10000] 
+Constraint match at parameter BrLen100, badValue = -0.000136 [ 1e-06; 10000] 
+Initial bracketing:
+A: x = 1.52406, f = 134483
+B: x = 1.52406, f = 134483
+C: x = 1.52355, f = 134483
+Initial bracketing:
+A: x = 0.53842, f = 134483
+B: x = 0.538275, f = 134483
+C: x = 0.538414, f = 134483
+Initial bracketing:
+A: x = 0.449183, f = 134483
+B: x = 0.449066, f = 134483
+C: x = 0.449178, f = 134483
+Initial bracketing:
+A: x = 0.391673, f = 134483
+B: x = 0.391727, f = 134483
+C: x = 0.391679, f = 134483
+Initial bracketing:
+A: x = 0.465942, f = 134483
+B: x = 0.466052, f = 134483
+C: x = 0.465947, f = 134483
+Initial bracketing:
+A: x = 0.517244, f = 134483
+B: x = 0.517208, f = 134483
+C: x = 0.517239, f = 134483
+Initial bracketing:
+A: x = 0.495349, f = 134483
+B: x = 0.49531, f = 134483
+C: x = 0.495344, f = 134483
+Initial bracketing:
+A: x = 0.561214, f = 134483
+B: x = 0.561216, f = 134483
+C: x = 0.561219, f = 134483
+Initial bracketing:
+A: x = 0.540625, f = 134483
+B: x = 0.540745, f = 134483
+C: x = 0.54063, f = 134483
+Initial bracketing:
+A: x = 0.52959, f = 134483
+B: x = 0.5298, f = 134483
+C: x = 0.529596, f = 134483
+Constraint match at parameter BrLen100, badValue = -0.000136 [ 1e-06; 10000] 
+Constraint match at parameter BrLen100, badValue = -0.000137 [ 1e-06; 10000] 
+Constraint match at parameter BrLen100, badValue = -0.000137 [ 1e-06; 10000] 
+Initial bracketing:
+A: x = 1.52405, f = 134483
+B: x = 1.52385, f = 134483
+C: x = 1.52405, f = 134483
+Initial bracketing:
+A: x = 0.538271, f = 134483
+B: x = 0.53817, f = 134483
+C: x = 0.538266, f = 134483
+Initial bracketing:
+A: x = 0.449062, f = 134483
+B: x = 0.448993, f = 134483
+C: x = 0.449057, f = 134483
+Initial bracketing:
+A: x = 0.391731, f = 134483
+B: x = 0.391762, f = 134483
+C: x = 0.391736, f = 134483
+Initial bracketing:
+A: x = 0.466055, f = 134483
+B: x = 0.466138, f = 134483
+C: x = 0.466061, f = 134483
+Initial bracketing:
+A: x = 0.517203, f = 134483
+B: x = 0.517176, f = 134483
+C: x = 0.517198, f = 134483
+Initial bracketing:
+A: x = 0.495306, f = 134483
+B: x = 0.495283, f = 134483
+C: x = 0.4953, f = 134483
+Initial bracketing:
+A: x = 0.561217, f = 134483
+B: x = 0.561219, f = 134483
+C: x = 0.561221, f = 134483
+Initial bracketing:
+A: x = 0.540749, f = 134483
+B: x = 0.540825, f = 134483
+C: x = 0.540754, f = 134483
+Initial bracketing:
+A: x = 0.529804, f = 134483
+B: x = 0.529946, f = 134483
+C: x = 0.529809, f = 134483
+Constraint match at parameter BrLen100, badValue = -0.000136 [ 1e-06; 10000] 
+Constraint match at parameter BrLen100, badValue = -0.000138 [ 1e-06; 10000] 
+!!! Function at new point is greater than at current point: 134483>134483. Applying Felsenstein-Churchill correction: 0
+Constraint match at parameter BrLen100, badValue = -0.000137 [ 1e-06; 10000] 
+Initial bracketing:
+A: x = 1.52385, f = 134483
+B: x = 1.52372, f = 134483
+C: x = 1.52384, f = 134483
+Initial bracketing:
+A: x = 0.538166, f = 134483
+B: x = 0.538096, f = 134483
+C: x = 0.53816, f = 134483
+Initial bracketing:
+A: x = 0.448988, f = 134483
+B: x = 0.448948, f = 134483
+C: x = 0.448983, f = 134483
+Initial bracketing:
+A: x = 0.391766, f = 134483
+B: x = 0.391783, f = 134483
+C: x = 0.391771, f = 134483
+Initial bracketing:
+A: x = 0.466142, f = 134483
+B: x = 0.466203, f = 134483
+C: x = 0.466147, f = 134483
+Initial bracketing:
+A: x = 0.517172, f = 134483
+B: x = 0.517154, f = 134483
+C: x = 0.517166, f = 134483
+Initial bracketing:
+A: x = 0.495279, f = 134483
+B: x = 0.495268, f = 134483
+C: x = 0.495274, f = 134483
+Initial bracketing:
+A: x = 0.561218, f = 134483
+B: x = 0.56122, f = 134483
+C: x = 0.561224, f = 134483
+Initial bracketing:
+A: x = 0.540829, f = 134483
+B: x = 0.54088, f = 134483
+C: x = 0.540835, f = 134483
+Initial bracketing:
+A: x = 0.52995, f = 134483
+B: x = 0.530045, f = 134483
+C: x = 0.529956, f = 134483
+Constraint match at parameter BrLen100, badValue = -0.000137 [ 1e-06; 10000] 
+Constraint match at parameter BrLen100, badValue = -0.000138 [ 1e-06; 10000] 
+Constraint match at parameter BrLen100, badValue = -0.000137 [ 1e-06; 10000] 
+Initial bracketing:
+A: x = 1.52372, f = 134483
+B: x = 1.52365, f = 134483
+C: x = 1.52371, f = 134483
+Initial bracketing:
+A: x = 0.538092, f = 134483
+B: x = 0.538048, f = 134483
+C: x = 0.538087, f = 134483
+Initial bracketing:
+A: x = 0.448944, f = 134483
+B: x = 0.448923, f = 134483
+C: x = 0.448939, f = 134483
+Initial bracketing:
+A: x = 0.391787, f = 134483
+B: x = 0.391798, f = 134483
+C: x = 0.391792, f = 134483
+Initial bracketing:
+A: x = 0.466207, f = 134483
+B: x = 0.466253, f = 134483
+C: x = 0.466213, f = 134483
+Initial bracketing:
+A: x = 0.51715, f = 134483
+B: x = 0.517138, f = 134483
+C: x = 0.517145, f = 134483
+Initial bracketing:
+A: x = 0.495263, f = 134483
+B: x = 0.495259, f = 134483
+C: x = 0.495258, f = 134483
+Initial bracketing:
+A: x = 0.561221, f = 134483
+B: x = 0.561223, f = 134483
+C: x = 0.561226, f = 134483
+Initial bracketing:
+A: x = 0.540885, f = 134483
+B: x = 0.540917, f = 134483
+C: x = 0.54089, f = 134483
+Initial bracketing:
+A: x = 0.530049, f = 134483
+B: x = 0.530113, f = 134483
+C: x = 0.530054, f = 134483
+Constraint match at parameter BrLen100, badValue = -0.000137 [ 1e-06; 10000] 
+Constraint match at parameter BrLen100, badValue = -0.000138 [ 1e-06; 10000] 
+Initial bracketing:
+A: x = 1.52365, f = 134483
+B: x = 1.52362, f = 134483
+C: x = 1.52364, f = 134483
+Initial bracketing:
+A: x = 0.538045, f = 134483
+B: x = 0.538016, f = 134483
+C: x = 0.538039, f = 134483
+Initial bracketing:
+A: x = 0.448919, f = 134483
+B: x = 0.448909, f = 134483
+C: x = 0.448914, f = 134483
+Initial bracketing:
+A: x = 0.391802, f = 134483
+B: x = 0.391808, f = 134483
+C: x = 0.391807, f = 134483
+Initial bracketing:
+A: x = 0.466257, f = 134483
+B: x = 0.46629, f = 134483
+C: x = 0.466262, f = 134483
+Initial bracketing:
+A: x = 0.517134, f = 134483
+B: x = 0.517127, f = 134483
+C: x = 0.517129, f = 134483
+Initial bracketing:
+A: x = 0.495255, f = 134483
+B: x = 0.495254, f = 134483
+C: x = 0.495249, f = 134483
+Initial bracketing:
+A: x = 0.561223, f = 134483
+B: x = 0.561225, f = 134483
+C: x = 0.561228, f = 134483
+Initial bracketing:
+A: x = 0.540921, f = 134483
+B: x = 0.540942, f = 134483
+C: x = 0.540927, f = 134483
+Initial bracketing:
+A: x = 0.530118, f = 134483
+B: x = 0.530161, f = 134483
+C: x = 0.530123, f = 134483
+Constraint match at parameter BrLen100, badValue = -0.000137 [ 1e-06; 10000] 
+Constraint match at parameter BrLen100, badValue = -0.000138 [ 1e-06; 10000] 
+Initial bracketing:
+A: x = 1.52361, f = 134483
+B: x = 1.52361, f = 134483
+C: x = 1.52361, f = 134483
+Initial bracketing:
+A: x = 0.538012, f = 134483
+B: x = 0.537996, f = 134483
+C: x = 0.538007, f = 134483
+Initial bracketing:
+A: x = 0.448905, f = 134483
+B: x = 0.448903, f = 134483
+C: x = 0.4489, f = 134483
+Initial bracketing:
+A: x = 0.391812, f = 134483
+B: x = 0.391815, f = 134483
+C: x = 0.391817, f = 134483
+Initial bracketing:
+A: x = 0.466294, f = 134483
+B: x = 0.466317, f = 134483
+C: x = 0.466299, f = 134483
+Initial bracketing:
+A: x = 0.517123, f = 134483
+B: x = 0.517119, f = 134483
+C: x = 0.517118, f = 134483
+Initial bracketing:
+A: x = 0.495255, f = 134483
+B: x = 0.495253, f = 134483
+C: x = 0.49525, f = 134483
+Initial bracketing:
+A: x = 0.561224, f = 134483
+B: x = 0.561226, f = 134483
+C: x = 0.56123, f = 134483
+Initial bracketing:
+A: x = 0.540947, f = 134483
+B: x = 0.54096, f = 134483
+C: x = 0.540952, f = 134483
+Initial bracketing:
+A: x = 0.530165, f = 134483
+B: x = 0.530194, f = 134483
+C: x = 0.53017, f = 134483
+Constraint match at parameter BrLen100, badValue = -0.000137 [ 1e-06; 10000] 
+Constraint match at parameter BrLen100, badValue = -0.000138 [ 1e-06; 10000] 
+Initial bracketing:
+A: x = 1.5236, f = 134483
+B: x = 1.52361, f = 134483
+C: x = 1.52361, f = 134483
+Initial bracketing:
+A: x = 0.537992, f = 134483
+B: x = 0.537984, f = 134483
+C: x = 0.537987, f = 134483
+Initial bracketing:
+A: x = 0.448904, f = 134483
+B: x = 0.448902, f = 134483
+C: x = 0.448899, f = 134483
+Initial bracketing:
+A: x = 0.391819, f = 134483
+B: x = 0.39182, f = 134483
+C: x = 0.391824, f = 134483
+Initial bracketing:
+A: x = 0.466322, f = 134483
+B: x = 0.466339, f = 134483
+C: x = 0.466327, f = 134483
+Initial bracketing:
+A: x = 0.517115, f = 134483
+B: x = 0.517114, f = 134483
+C: x = 0.51711, f = 134483
+Initial bracketing:
+A: x = 0.495254, f = 134483
+B: x = 0.495252, f = 134483
+C: x = 0.495248, f = 134483
+Initial bracketing:
+A: x = 0.561226, f = 134483
+B: x = 0.561228, f = 134483
+C: x = 0.561231, f = 134483
+Initial bracketing:
+A: x = 0.540964, f = 134483
+B: x = 0.540972, f = 134483
+C: x = 0.540969, f = 134483
+Initial bracketing:
+A: x = 0.530198, f = 134483
+B: x = 0.530218, f = 134483
+C: x = 0.530204, f = 134483
+Constraint match at parameter BrLen100, badValue = -0.000137 [ 1e-06; 10000] 
+Initial bracketing:
+A: x = 1.52361, f = 134483
+B: x = 1.52362, f = 134483
+C: x = 1.52362, f = 134483
+Initial bracketing:
+A: x = 0.537979, f = 134483
+B: x = 0.537974, f = 134483
+C: x = 0.537974, f = 134483
+Initial bracketing:
+A: x = 0.448901, f = 134483
+B: x = 0.448903, f = 134483
+C: x = 0.448906, f = 134483
+Initial bracketing:
+A: x = 0.391821, f = 134483
+B: x = 0.391824, f = 134483
+C: x = 0.391825, f = 134483
+Initial bracketing:
+A: x = 0.466343, f = 134483
+B: x = 0.466357, f = 134483
+C: x = 0.466348, f = 134483
+Initial bracketing:
+A: x = 0.517109, f = 134483
+B: x = 0.517109, f = 134483
+C: x = 0.517104, f = 134483
+Initial bracketing:
+A: x = 0.495252, f = 134483
+B: x = 0.495254, f = 134483
+C: x = 0.495257, f = 134483
+Initial bracketing:
+A: x = 0.561227, f = 134483
+B: x = 0.561229, f = 134483
+C: x = 0.561232, f = 134483
+Initial bracketing:
+A: x = 0.540976, f = 134483
+B: x = 0.540981, f = 134483
+C: x = 0.540981, f = 134483
+Initial bracketing:
+A: x = 0.530222, f = 134483
+B: x = 0.530236, f = 134483
+C: x = 0.530228, f = 134483
+Constraint match at parameter BrLen100, badValue = -0.000137 [ 1e-06; 10000] 
+Initial bracketing:
+A: x = 1.52362, f = 134483
+B: x = 1.52363, f = 134483
+C: x = 1.52362, f = 134483
+Initial bracketing:
+A: x = 0.53797, f = 134483
+B: x = 0.537969, f = 134483
+C: x = 0.537965, f = 134483
+Initial bracketing:
+A: x = 0.448904, f = 134483
+B: x = 0.448905, f = 134483
+C: x = 0.448907, f = 134483
+Initial bracketing:
+A: x = 0.391825, f = 134483
+B: x = 0.391827, f = 134483
+C: x = 0.391828, f = 134483
+Initial bracketing:
+A: x = 0.466361, f = 134483
+B: x = 0.466371, f = 134483
+C: x = 0.466367, f = 134483
+Initial bracketing:
+A: x = 0.517108, f = 134483
+B: x = 0.517106, f = 134483
+C: x = 0.517104, f = 134483
+Initial bracketing:
+A: x = 0.495252, f = 134483
+B: x = 0.495254, f = 134483
+C: x = 0.495257, f = 134483
+Initial bracketing:
+A: x = 0.561228, f = 134483
+B: x = 0.56123, f = 134483
+C: x = 0.561233, f = 134483
+Initial bracketing:
+A: x = 0.540985, f = 134483
+B: x = 0.540986, f = 134483
+C: x = 0.54099, f = 134483
+Initial bracketing:
+A: x = 0.53024, f = 134483
+B: x = 0.530249, f = 134483
+C: x = 0.530245, f = 134483
+Constraint match at parameter BrLen100, badValue = -0.000137 [ 1e-06; 10000] 
+Initial bracketing:
+A: x = 1.52363, f = 134483
+B: x = 1.52364, f = 134483
+C: x = 1.52364, f = 134483
+Initial bracketing:
+A: x = 0.53797, f = 134483
+B: x = 0.537968, f = 134483
+C: x = 0.537964, f = 134483
+Initial bracketing:
+A: x = 0.448906, f = 134483
+B: x = 0.448909, f = 134483
+C: x = 0.44891, f = 134483
+Initial bracketing:
+A: x = 0.391826, f = 134483
+B: x = 0.391828, f = 134483
+C: x = 0.391831, f = 134483
+Initial bracketing:
+A: x = 0.466375, f = 134483
+B: x = 0.466383, f = 134483
+C: x = 0.466381, f = 134483
+Initial bracketing:
+A: x = 0.517105, f = 134483
+B: x = 0.517103, f = 134483
+C: x = 0.517101, f = 134483
+Initial bracketing:
+A: x = 0.495254, f = 134483
+B: x = 0.495256, f = 134483
+C: x = 0.495259, f = 134483
+Initial bracketing:
+A: x = 0.561229, f = 134483
+B: x = 0.561231, f = 134483
+C: x = 0.561234, f = 134483
+Initial bracketing:
+A: x = 0.540991, f = 134483
+B: x = 0.540991, f = 134483
+C: x = 0.540996, f = 134483
+Initial bracketing:
+A: x = 0.530253, f = 134483
+B: x = 0.530258, f = 134483
+C: x = 0.530258, f = 134483
+Constraint match at parameter BrLen100, badValue = -0.000137 [ 1e-06; 10000] 
+Initial bracketing:
+A: x = 1.52365, f = 134483
+B: x = 1.52366, f = 134483
+C: x = 1.52365, f = 134483
+Initial bracketing:
+A: x = 0.537967, f = 134483
+B: x = 0.537965, f = 134483
+C: x = 0.537962, f = 134483
+Initial bracketing:
+A: x = 0.44891, f = 134483
+B: x = 0.448913, f = 134483
+C: x = 0.448913, f = 134483
+Initial bracketing:
+A: x = 0.391828, f = 134483
+B: x = 0.39183, f = 134483
+C: x = 0.391834, f = 134483
+Initial bracketing:
+A: x = 0.466387, f = 134483
+B: x = 0.466392, f = 134483
+C: x = 0.466392, f = 134483
+Initial bracketing:
+A: x = 0.517104, f = 134483
+B: x = 0.517102, f = 134483
+C: x = 0.517099, f = 134483
+Initial bracketing:
+A: x = 0.495255, f = 134483
+B: x = 0.495257, f = 134483
+C: x = 0.495261, f = 134483
+Initial bracketing:
+A: x = 0.56123, f = 134483
+B: x = 0.561232, f = 134483
+C: x = 0.561235, f = 134483
+Initial bracketing:
+A: x = 0.54099, f = 134483
+B: x = 0.540992, f = 134483
+C: x = 0.540996, f = 134483
+Initial bracketing:
+A: x = 0.530262, f = 134483
+B: x = 0.530265, f = 134483
+C: x = 0.530267, f = 134483
+Constraint match at parameter BrLen100, badValue = -0.000137 [ 1e-06; 10000] 
+Initial bracketing:
+A: x = 1.52367, f = 134483
+B: x = 1.52368, f = 134483
+C: x = 1.52367, f = 134483
+Initial bracketing:
+A: x = 0.537965, f = 134483
+B: x = 0.537963, f = 134483
+C: x = 0.53796, f = 134483
+Initial bracketing:
+A: x = 0.448914, f = 134483
+B: x = 0.448916, f = 134483
+C: x = 0.448917, f = 134483
+Initial bracketing:
+A: x = 0.39183, f = 134483
+B: x = 0.391832, f = 134483
+C: x = 0.391835, f = 134483
+Initial bracketing:
+A: x = 0.466396, f = 134483
+B: x = 0.4664, f = 134483
+C: x = 0.466401, f = 134483
+Initial bracketing:
+A: x = 0.517102, f = 134483
+B: x = 0.5171, f = 134483
+C: x = 0.517097, f = 134483
+Initial bracketing:
+A: x = 0.495257, f = 134483
+B: x = 0.495259, f = 134483
+C: x = 0.495262, f = 134483
+Initial bracketing:
+A: x = 0.561231, f = 134483
+B: x = 0.561233, f = 134483
+C: x = 0.561236, f = 134483
+Initial bracketing:
+A: x = 0.540995, f = 134483
+B: x = 0.540997, f = 134483
+C: x = 0.540998, f = 134483
+Initial bracketing:
+A: x = 0.53027, f = 134483
+B: x = 0.53027, f = 134483
+C: x = 0.530275, f = 134483

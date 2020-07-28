@@ -1,0 +1,7 @@
+mt.txt
+mt
+mtDNA_186.fasta
+10 0.2 30 70 0.2
+30
+mt_init_trees.txt
+5

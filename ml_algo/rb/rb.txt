@@ -1,0 +1,20 @@
+Optimal tree MP 0  ML 22075.3
+For dataset rb55s.fasta
+Limit : 10 Mole coll : 0.2 Alpha : 30Beta : 70 KELossRate : 0.2Population size 30
+Elaspsed: 11.2487Seconds
+Tree : 0 Log likelihood before: -22075.3
+Log likelihood after: -21808.8
+
+Tree : 0 Log likelihood before: -22204
+Log likelihood after: -21795.9
+
+Tree : 0 Log likelihood before: -22280.2
+Log likelihood after: -21784.3
+
+Tree : 0 Log likelihood before: -22271.7
+Log likelihood after: -21793.4
+
+Tree : 0 Log likelihood before: -22282.1
+Log likelihood after: -21853.5
+
+Elaspsed with repair 2: 940.779Seconds

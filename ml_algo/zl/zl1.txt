@@ -1,0 +1,56 @@
+Molecule number 1 PE is :  80633.2
+Molecule number 1 PE is :  81632.9
+Molecule number 1 PE is :  81571
+Molecule number 1 PE is :  81649.6
+Molecule number 1 PE is :  81756.2
+Molecule number 1 PE is :  81663.7
+Molecule number 1 PE is :  81690.4
+Molecule number 1 PE is :  81457.7
+Molecule number 1 PE is :  81464.9
+Molecule number 1 PE is :  81798.8
+Molecule number 1 PE is :  81773.6
+Molecule number 1 PE is :  81636.9
+Molecule number 1 PE is :  81581.1
+Molecule number 1 PE is :  81670.4
+Molecule number 1 PE is :  81857.8
+Molecule number 1 PE is :  81606.4
+Molecule number 1 PE is :  81663.8
+Molecule number 1 PE is :  81725
+Molecule number 1 PE is :  81745.4
+Molecule number 1 PE is :  81644
+Molecule number 1 PE is :  81653.6
+Molecule number 1 PE is :  81688.2
+Molecule number 1 PE is :  81967.9
+Molecule number 1 PE is :  81698.1
+Molecule number 1 PE is :  81731.7
+Molecule number 1 PE is :  81781.7
+Molecule number 1 PE is :  81691.9
+Molecule number 1 PE is :  81570.2
+Molecule number 1 PE is :  81711.4
+Molecule number 1 PE is :  81760.4
+Molecules are : 
+Tree : 0 Log likelihood before: -80633.2
+Log likelihood after: -80592.4
+
+Tree : 0 Log likelihood before: -81452
+Log likelihood after: -80715.5
+
+Tree : 0 Log likelihood before: -81457
+Log likelihood after: -80729.3
+
+Tree : 0 Log likelihood before: -81568.6
+Log likelihood after: -80735
+
+Tree : 0 Log likelihood before: -81569.8
+Log likelihood after: -80765.3
+
+Tree : 0 Log likelihood before: -81583.1
+Log likelihood after: -80763.8
+
+Tree : 0 Log likelihood before: -81611.7
+Log likelihood after: -80790.8
+
+Tree : 0 Log likelihood before: -81634.1
+Log likelihood after: -80848.3
+
+Tree : 0 Log likelihood before: -81636.2

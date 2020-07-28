@@ -1,0 +1,11 @@
+Optimal tree MP 0  ML 40180.9
+For dataset mtDNA_186.fasta
+Limit : 10 Mole coll : 0.2 Alpha : 30Beta : 70 KELossRate : 0.2Population size 30
+Elaspsed: 99.5812Seconds
+Tree : 0 Log likelihood before: -40180.9
+Log likelihood after: -39999.9
+
+Tree : 0 Log likelihood before: -40274.9
+Log likelihood after: -40021.9
+
+Tree : 0 Log likelihood before: -40275.3

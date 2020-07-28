@@ -1,0 +1,5 @@
+Optimal tree MP 0  ML 22204
+For dataset rb55s.fasta
+Limit : 10 Mole coll : 0.2 Alpha : 30Beta : 70 KELossRate : 0.2Population size 30
+Elaspsed: 10.0867Seconds
+Tree : 0 Log likelihood before: -22196.6

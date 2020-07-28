@@ -1,0 +1,7 @@
+rp.txt
+rp
+RDPII_218.fasta
+1000 0.2 30 70 0.2
+30
+rp_init_trees.txt
+5

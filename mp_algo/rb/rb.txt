@@ -1,0 +1,4 @@
+Optimal tree MP 4677  ML 0
+For dataset rb55s.fasta
+Limit : 1000 Mole coll : 0.2 Alpha : 40Beta : 20 KELossRate : 0.2Population size 30
+Elaspsed: 2213.34Seconds

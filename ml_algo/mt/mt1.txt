@@ -1,0 +1,76 @@
+Molecule number 1 PE is :  39871.6
+Molecule number 1 PE is :  40275
+Molecule number 1 PE is :  40363.8
+Molecule number 1 PE is :  40164.7
+Molecule number 1 PE is :  40263.5
+Molecule number 1 PE is :  40476.4
+Molecule number 1 PE is :  40266.9
+Molecule number 1 PE is :  40328.9
+Molecule number 1 PE is :  40443.6
+Molecule number 1 PE is :  40318.9
+Molecule number 1 PE is :  40318.7
+Molecule number 1 PE is :  40212.9
+Molecule number 1 PE is :  40318.1
+Molecule number 1 PE is :  40269.8
+Molecule number 1 PE is :  40303.3
+Molecule number 1 PE is :  40244.6
+Molecule number 1 PE is :  40260.3
+Molecule number 1 PE is :  40313.1
+Molecule number 1 PE is :  40472.6
+Molecule number 1 PE is :  40221.9
+Molecule number 1 PE is :  40419.8
+Molecule number 1 PE is :  40363
+Molecule number 1 PE is :  40300.5
+Molecule number 1 PE is :  40180.9
+Molecule number 1 PE is :  40675.5
+Molecule number 1 PE is :  40530.7
+Molecule number 1 PE is :  40382.9
+Molecule number 1 PE is :  40310.8
+Molecule number 1 PE is :  40420.1
+Molecule number 1 PE is :  40624.6
+Molecules are : 
+Tree : 0 Log likelihood before: -39871.6
+Log likelihood after: -39865.5
+
+Tree : 0 Log likelihood before: -40164.7
+Log likelihood after: -39908.6
+
+Tree : 0 Log likelihood before: -40180.9
+Log likelihood after: -39999.9
+
+Tree : 0 Log likelihood before: -40208
+Log likelihood after: -39895.7
+
+Tree : 0 Log likelihood before: -40221.9
+Log likelihood after: -39893.9
+
+ MP: 0 ML: 39871.6NumOfHit : 8
+ MP: 0 ML: 40275NumOfHit : 15
+ MP: 0 ML: 40363.8NumOfHit : 11
+ MP: 0 ML: 40164.7NumOfHit : 13
+ MP: 0 ML: 40263.5NumOfHit : 10
+ MP: 0 ML: 40476.4NumOfHit : 14
+ MP: 0 ML: 40266.9NumOfHit : 11
+ MP: 0 ML: 40328.9NumOfHit : 12
+ MP: 0 ML: 40443.6NumOfHit : 11
+ MP: 0 ML: 40317.3NumOfHit : 10
+ MP: 0 ML: 40318.3NumOfHit : 14
+ MP: 0 ML: 40207.9NumOfHit : 12
+ MP: 0 ML: 40318.1NumOfHit : 16
+ MP: 0 ML: 40269NumOfHit : 17
+ MP: 0 ML: 40303.3NumOfHit : 13
+ MP: 0 ML: 40244.6NumOfHit : 11
+ MP: 0 ML: 40260.3NumOfHit : 15
+ MP: 0 ML: 40313.1NumOfHit : 12
+ MP: 0 ML: 40472.6NumOfHit : 13
+ MP: 0 ML: 40221.9NumOfHit : 12
+ MP: 0 ML: 40419.8NumOfHit : 8
+ MP: 0 ML: 40363NumOfHit : 18
+ MP: 0 ML: 40300.2NumOfHit : 17
+ MP: 0 ML: 40180.9NumOfHit : 10
+ MP: 0 ML: 40675.1NumOfHit : 8
+ MP: 0 ML: 40529.5NumOfHit : 14
+ MP: 0 ML: 40382.9NumOfHit : 9
+ MP: 0 ML: 40310.8NumOfHit : 12
+ MP: 0 ML: 40420.1NumOfHit : 6
+ MP: 0 ML: 40624.6NumOfHit : 13

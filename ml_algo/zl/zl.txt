@@ -1,0 +1,5 @@
+Optimal tree MP 0  ML 81580.5
+For dataset ZILLA_500.fasta
+Limit : 20 Mole coll : 0.2 Alpha : 50Beta : 70 KELossRate : 0.2Population size 30
+Elaspsed: 280.718Seconds
+Tree : 0 Log likelihood before: -81580.5

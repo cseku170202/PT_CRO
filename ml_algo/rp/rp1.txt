@@ -1,0 +1,76 @@
+Molecule number 1 PE is :  148178
+Molecule number 1 PE is :  146226
+Molecule number 1 PE is :  147313
+Molecule number 1 PE is :  148272
+Molecule number 1 PE is :  147097
+Molecule number 1 PE is :  148383
+Molecule number 1 PE is :  148421
+Molecule number 1 PE is :  148083
+Molecule number 1 PE is :  147439
+Molecule number 1 PE is :  148160
+Molecule number 1 PE is :  148537
+Molecule number 1 PE is :  146981
+Molecule number 1 PE is :  147418
+Molecule number 1 PE is :  148271
+Molecule number 1 PE is :  149178
+Molecule number 1 PE is :  148835
+Molecule number 1 PE is :  148032
+Molecule number 1 PE is :  148528
+Molecule number 1 PE is :  148276
+Molecule number 1 PE is :  147857
+Molecule number 1 PE is :  147119
+Molecule number 1 PE is :  147225
+Molecule number 1 PE is :  147049
+Molecule number 1 PE is :  149415
+Molecule number 1 PE is :  149770
+Molecule number 1 PE is :  148235
+Molecule number 1 PE is :  148308
+Molecule number 1 PE is :  148831
+Molecule number 1 PE is :  147467
+Molecule number 1 PE is :  147988
+Molecules are : 
+Tree : 0 Log likelihood before: -146226
+Log likelihood after: -134520
+
+Tree : 0 Log likelihood before: -146456
+Log likelihood after: -134521
+
+Tree : 0 Log likelihood before: -146689
+Log likelihood after: -134570
+
+Tree : 0 Log likelihood before: -146566
+Log likelihood after: -134475
+
+Tree : 0 Log likelihood before: -145672
+Log likelihood after: -134545
+
+ MP: 0 ML: 148174NumOfHit : 19
+ MP: 0 ML: 146226NumOfHit : 11
+ MP: 0 ML: 147313NumOfHit : 16
+ MP: 0 ML: 148272NumOfHit : 22
+ MP: 0 ML: 147062NumOfHit : 12
+ MP: 0 ML: 148379NumOfHit : 11
+ MP: 0 ML: 148421NumOfHit : 16
+ MP: 0 ML: 148040NumOfHit : 11
+ MP: 0 ML: 147430NumOfHit : 17
+ MP: 0 ML: 148160NumOfHit : 13
+ MP: 0 ML: 148533NumOfHit : 17
+ MP: 0 ML: 146981NumOfHit : 14
+ MP: 0 ML: 147418NumOfHit : 17
+ MP: 0 ML: 148216NumOfHit : 22
+ MP: 0 ML: 149178NumOfHit : 11
+ MP: 0 ML: 148775NumOfHit : 15
+ MP: 0 ML: 148009NumOfHit : 16
+ MP: 0 ML: 148520NumOfHit : 12
+ MP: 0 ML: 148276NumOfHit : 17
+ MP: 0 ML: 147857NumOfHit : 18
+ MP: 0 ML: 147118NumOfHit : 17
+ MP: 0 ML: 147212NumOfHit : 13
+ MP: 0 ML: 147048NumOfHit : 19
+ MP: 0 ML: 149400NumOfHit : 18
+ MP: 0 ML: 149770NumOfHit : 20
+ MP: 0 ML: 148202NumOfHit : 14
+ MP: 0 ML: 148272NumOfHit : 19
+ MP: 0 ML: 148831NumOfHit : 16
+ MP: 0 ML: 147467NumOfHit : 15
+ MP: 0 ML: 147988NumOfHit : 16

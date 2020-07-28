@@ -1,0 +1,4 @@
+Optimal tree MP 16446  ML 0
+For dataset ZILLA_500.fasta
+Limit : 500 Mole coll : 0.2 Alpha : 40Beta : 30 KELossRate : 0.2Population size 30
+Elaspsed: 8512.77Seconds

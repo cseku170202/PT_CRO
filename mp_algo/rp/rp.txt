@@ -1,0 +1,4 @@
+Optimal tree MP 34278  ML 0
+For dataset RDPII_218.fasta
+Limit : 30 Mole coll : 0.2 Alpha : 45Beta : 30 KELossRate : 0.2Population size 30
+Elaspsed: 246.259Seconds

@@ -1,0 +1,6 @@
+rb.txt
+rb
+rb55s.fasta
+1000 0.2 30 30 0.2
+30
+bootstrap1000_55.txt

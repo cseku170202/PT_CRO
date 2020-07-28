@@ -1,0 +1,6 @@
+zl.txt
+zl
+ZILLA_500.fasta
+500 0.2 40 30 0.2
+30
+zl_init_trees.txt
